@@ -1,2 +1,2 @@
 # odin-recipes
-This is my first project using HTML. I will be creating a recipe website using only what I have learned in HTML basics. This will hopefully help me remember and commit to memory what I have learned, and improve in my HTML skills. 
+This is my first project using HTML. I will be creating a recipe website using only what I have learned in HTML basics for now. This will hopefully help me remember and commit to memory what I have learned, and improve in my HTML skills. 
