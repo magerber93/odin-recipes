@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+
+body {
+    background-color: rgb(20, 194, 194);
+}
+
+.link {
+    font-size: 30px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    
+}
